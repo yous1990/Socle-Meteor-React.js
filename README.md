@@ -18,7 +18,7 @@ React-router
 
 ## Basic Features
 
-* Authentication
+* Authentification
 
 * Routing (Uses React Router as standard for React)
 
